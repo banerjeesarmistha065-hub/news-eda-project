@@ -1,5 +1,6 @@
-📰 News Articles EDA Project
-📌 Overview
+📰 News Articles EDA Project:
+
+📌 Overview:
 
 This project performs Exploratory Data Analysis (EDA) on a dataset of news articles.
 Using Python libraries like Pandas, Matplotlib, Seaborn, and WordCloud, the analysis uncovers trends, popular keywords, category insights, and temporal patterns in the news data.
@@ -13,7 +14,8 @@ The dataset contains the following columns:
 *short_description – Brief summary
 *date – Published date
 
-🔍 Key Analysis Performed
+🔍 Key Analysis Performed-
+
 ✔ 1. Data Cleaning:
 
 -Removing missing values
