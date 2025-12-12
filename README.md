@@ -8,7 +8,7 @@ Using Python libraries like Pandas, Matplotlib, Seaborn, and WordCloud, the anal
 📂 Dataset:
 
 The dataset contains the following columns:       
-*category – Type of news (Politics, Business, Tech, etc.      
+*category – Type of news (Politics, Business, Tech, etc).      
 *headline – Main title of the news article        
 *short_description – Brief summary         
 *date – Published date       
